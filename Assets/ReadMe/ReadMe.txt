@@ -1,0 +1,1 @@
+A fantasy game like "The Witcher". The da Vinci tank is going to battle through a swampy area, there are grass, trees and stones around. The game "Days Gone" has a similar environment.
